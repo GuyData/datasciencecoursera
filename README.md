@@ -1,4 +1,4 @@
 # datasciencecoursera
 ##Student repo
-Personal R project repository for study in the Data Science Specialization on Coursera
+Personal repository for study in the [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) on [Coursera](https://www.coursera.org/)
 
